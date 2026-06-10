@@ -1,2 +1,13 @@
-# Hack-With-36
-Official source code repository for Hack With 36 YouTube channel. Python, Cybersecurity, Blockchain, Arduino, and Programming Projects.
+# Hack With 36
+
+Welcome to the official repository of Hack With 36.
+
+📺 YouTube: @HackWith36
+
+This repository contains source code, projects, tutorials, and learning resources related to:
+- Python
+- Cybersecurity
+- Blockchain
+- Arduino & IoT
+- Networking
+- Programming
