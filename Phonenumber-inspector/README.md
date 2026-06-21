@@ -79,8 +79,8 @@ get_number_info("+9779812345678")
 
 **RoryChhattish**
 
-🎥 YouTube: **HackWith36** (https://www.youtube.com/@Hackwith36)
-🐙 GitHub: **Rorychhattish** (https://github.com/Rorychhattish)
+* 🎥 YouTube: **HackWith36** (https://www.youtube.com/@Hackwith36)
+* 🐙 GitHub: **Rorychhattish** (https://github.com/Rorychhattish)
 
 ---
 
